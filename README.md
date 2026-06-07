@@ -56,8 +56,6 @@ python filename.py
 
 ## Folder Structure
 
-## Folder Structure
-
 ```
 PYTHON_TASK_01_ANUSHA/
 │
